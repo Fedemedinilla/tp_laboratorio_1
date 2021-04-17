@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1618675691 source:c:\users\federico\desktop\laboratorio tp1\medinilla federico tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp1 functions.h"
+
+1618675238 c:\users\federico\desktop\laboratorio tp1\medinilla federico tp1\tp1 functions.h
+
+1618675670 source:c:\users\federico\desktop\laboratorio tp1\medinilla federico tp1\tp1 functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp1 functions.h"
+
