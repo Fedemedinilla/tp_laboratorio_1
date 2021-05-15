@@ -113,3 +113,42 @@
 	"Menu.h"
 	"ArrayEmployees.h"
 
+1602687829 source:c:\users\federico\desktop\laboratorio tp1\tp_laboratorio_1\medinilla federico tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Menu.h"
+	"ArrayEmployees.h"
+	"getFunctions.h"
+
+1602687829 c:\users\federico\desktop\laboratorio tp1\tp_laboratorio_1\medinilla federico tp2\menu.h
+
+1602687829 c:\users\federico\desktop\laboratorio tp1\tp_laboratorio_1\medinilla federico tp2\arrayemployees.h
+
+1602687829 c:\users\federico\desktop\laboratorio tp1\tp_laboratorio_1\medinilla federico tp2\getfunctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621110595 source:c:\users\federico\desktop\laboratorio tp1\tp_laboratorio_1\medinilla federico tp2\getfunctions.c
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	"getFunctions.h"
+
+1621110258 source:c:\users\federico\desktop\laboratorio tp1\tp_laboratorio_1\medinilla federico tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Menu.h"
+	"ArrayEmployees.h"
+	"getFunctions.h"
+
+1602687829 source:c:\users\federico\desktop\laboratorio tp1\tp_laboratorio_1\medinilla federico tp2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"Menu.h"
+	"ArrayEmployees.h"
+

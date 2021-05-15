@@ -1,6 +1,6 @@
 #include <string.h>
 #include <ctype.h>
-#include<stdio.h>
+#include <stdio.h>
 #include "getFunctions.h"
 
 int checkInt(char inputMsg[],char errorMsg[])

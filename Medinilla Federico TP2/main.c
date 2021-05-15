@@ -4,7 +4,7 @@
 #include "Menu.h"
 #include "ArrayEmployees.h"
 #include "getFunctions.h"
-#define TAM 1
+#define TAM 1000
 
 
 int main()
