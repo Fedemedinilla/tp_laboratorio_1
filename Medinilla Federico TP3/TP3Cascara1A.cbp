@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="TP 2" />
+		<Option title="TP3Cascara1A" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/TP 2" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/TP3Cascara1A" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/TP 2" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/TP3Cascara1A" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -31,21 +31,28 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="ArrayEmployees.c">
+		<Unit filename="Controller.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="ArrayEmployees.h" />
-		<Unit filename="Menu.c">
+		<Unit filename="Controller.h" />
+		<Unit filename="Employee.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="Menu.h" />
-		<Unit filename="getFunctions.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="getFunctions.h" />
+		<Unit filename="Employee.h" />
+		<Unit filename="LinkedList.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Extensions />
+		<Unit filename="misFuncionesGet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="misFuncionesGet.h" />
+		<Unit filename="parser.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="parser.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
